@@ -31,4 +31,5 @@ i++;
 // Return the length of the transformed string
 return letters.length;
 }
+
 console.log(StringReduction("ccc"))
